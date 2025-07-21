@@ -1,2 +1,3 @@
 # bigenner
 course project
+## notes
